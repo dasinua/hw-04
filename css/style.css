@@ -149,6 +149,7 @@ body {
 .da-column-left {
 	float: left;
 	width: 210px;
+	height: 545px;
 	text-align: center;
 	background: #EDEEF0 ;
 	border-right: 1px solid #c7cacf;
@@ -156,6 +157,7 @@ body {
 .da-column-right {
 	float: right;
 	width: 210px;
+	height: 545px;
 	text-align: center;
 	background: #EDEEF0 ;
 	border-left: 1px solid #c7cacf;
