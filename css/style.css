@@ -113,6 +113,8 @@ body {
 	display: inline-block;
 	margin-left: 65px;
 	padding: 9px 0;
+	position: relative;
+	z-index: 1;
 }
 .da-menu li a {
 	color:  rgba(255, 255, 255, 0.8);
