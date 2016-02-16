@@ -151,31 +151,52 @@ body {
 .da-body {
 	overflow: hidden;
 }
+.da-fon-right {
+	background: #EDEEF0 ;
+	width: 100%;
+	float: left;
+	position: relative;
+
+}
+.da-fon-center {
+	background: #fff;
+	width: 100%;
+	float: left;
+	position: relative;
+	right: 20%;
+	border-right: 1px solid #c7cacf;
+}
+.da-fon-left {
+	background: #EDEEF0 ;
+	width: 100%;
+	float: left;
+	position: relative;
+	right: 60%;
+	border-right: 1px solid #c7cacf;
+}
 .da-column-left {
 	float: left;
-	width: 210px;
+	width: 20%;
+	overflow: hidden;
+	position:relative;
+	left:80%;
 	text-align: center;
-	background: #EDEEF0 ;
-	border-right: 1px solid #c7cacf;
-	padding-bottom: 20000px;
-    margin-bottom: -20000px;
 }
 .da-column-center {
 	float: left;
-	width: 580px;
+	width: 60%;
+	overflow: hidden;
+	position:relative;
+	left:80%;
 	text-align: center;
-	background: #fff ;
-	padding-bottom: 20000px;
-    margin-bottom: -20000px;
 }
 .da-column-right {
 	float: right;
-	width: 210px;
+	width: 20%;
+	overflow: hidden;
+	position:relative;
+	left:80%;
 	text-align: center;
-	background: #EDEEF0 ;
-	border-left: 1px solid #c7cacf;
-	padding-bottom: 20000px;
-    margin-bottom: -20000px;
 }
 .da-body h3 {
 	color:  #424c43;
